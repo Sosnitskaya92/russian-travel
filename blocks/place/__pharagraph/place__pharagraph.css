@@ -1,0 +1,7 @@
+.place__pharagraph {
+  margin: 0 0 26px;
+}
+
+.place__pharagraph:last-child {
+  margin-bottom: 0;
+}

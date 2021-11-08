@@ -1,0 +1,29 @@
+.cover__link {
+  margin: 0;
+  width: 100%;
+  background-image: url(../../../images/__background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+}
+
+.cover__link::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(42, 44, 47, 0.3);
+  z-index: 1;
+}
+  
+.cover__link:hover::before {
+  background-color: rgba(42, 44, 47, 0.8);
+}
+

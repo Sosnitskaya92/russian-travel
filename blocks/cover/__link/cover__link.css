@@ -10,6 +10,7 @@
   justify-content: center;
   text-decoration: none;
   color: white;
+  background-position: center;
 }
 
 .cover__link::before {

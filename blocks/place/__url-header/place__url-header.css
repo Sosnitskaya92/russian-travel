@@ -4,4 +4,7 @@
   line-height: 12px;
   color: #AAAAAA;
   margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 0;
 }

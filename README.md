@@ -1,6 +1,6 @@
 # Проект: Russian-travel / Путешествие по России
 <div align="center">
-<img src="https://media.giphy.com/media/KzVF9vquT3VyiblSPQ/giphy.gif" alt="автобус" height="200">
+<img src="https://media.giphy.com/media/KzVF9vquT3VyiblSPQ/giphy.gif" alt="автобус" height="200" width="200">
 </div>
 
 ## ***Функционал:***
